@@ -13,3 +13,9 @@ This web application is a comprehensive tool for fostering productivity habits a
 - Python
 - JavaScript
 - SQL
+
+
+## How To Run
+### Prerequisites
+- Install Python
+- Install Django
